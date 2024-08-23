@@ -1,5 +1,5 @@
 ![Saleor Apps](https://user-images.githubusercontent.com/44495184/208925145-78c5022c-1a6c-4f2c-8f4f-7500e7afcaf0.png)
-
+ 
 <div align="center">
   <h1>Saleor Apps</h1>
 </div>
