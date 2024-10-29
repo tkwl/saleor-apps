@@ -4,5 +4,8 @@
     "src/pages/api/webhooks/*.*": {
       "memory": 512
     }
-  }
+  },
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm build",
+  "framework": "nextjs"
 }
